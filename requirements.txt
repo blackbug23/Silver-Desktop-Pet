@@ -1,0 +1,5 @@
+PyQt5>=5.15
+pdfplumber>=3.0
+pypdfium2>=4.0
+Pillow>=9.0
+openai>=1.0.0

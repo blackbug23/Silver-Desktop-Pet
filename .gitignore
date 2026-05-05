@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# 本地数据（隐私）
+reagents_data.json
+
+# 本地配置和内存
+.codebuddy/
+.workbuddy/
+
+# 旧版根目录重复文件（已迁移至 DesktopPetSilver/）
+/Silver-*.png
+/Silver-*-001.ico
+/run.bat
+/install.bat
+/pack.bat
+/Desktop-pet项目需求.txt
+
+# 第三方参考项目（不放进仓库）
+MinerU-master/
+AI learn/
+opencode-skills-chinese-main/
+
+# 测试文件
+*.pdf
+*.xlsx
+
+# 旧版单文件（已被 DesktopPetSilver/ 取代）
+Desktop-pet.py
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系统
+Thumbs.db
+Desktop.ini
